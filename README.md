@@ -1,5 +1,12 @@
 > :warning: **[ DEPRECIATED ]** This plugin is no longer under active development since Microsoft added built-in backup/restore functions in VSCode
 
+# TODO * Feature:
+- [ ] 支持备份时差异出已禁用，已启用 的插件
+- [ ] 支持分类不同工作空间的配置文件
+- [ ] 支持备份代码脚本
+- [ ] 支持备份键盘快捷方式
+
+
 # vscode-backup README
 
 ## Features
